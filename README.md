@@ -2,3 +2,4 @@
 
 <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="100" alt="Git Logo">
 <img src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" width="100" alt="Logo Kedua">
+<img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="100" alt="Logo Ketiga">
